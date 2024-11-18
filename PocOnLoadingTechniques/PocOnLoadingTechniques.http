@@ -1,0 +1,6 @@
+@PocOnLoadingTechniques_HostAddress = http://localhost:5081
+
+GET {{PocOnLoadingTechniques_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

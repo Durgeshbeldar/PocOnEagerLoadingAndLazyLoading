@@ -1,0 +1,50 @@
+
+
+NOTE : Please Refer The Comments Mentioned in AuthorController.cs File and Repository.cs File
+
+I Have Implemented Author Book One-Many Relationship :
+
+In First API I have Fetched All Authors with books
+
+In Second API Call I have Fetched Authors without including books and Later on Update the Code for Retrival of Books for each Author
+
+Images Folder Contains All the API calls Images ... Thank You :)
+
+
+
+****** Eager Loading and Lazy Loading are two techniques for loading related data in Entity Framework Core (EF Core) ********
+
+Eager Loading: This technique loads related data upfront in a single query, reducing the number of database calls. It is useful when you know you
+will need the related data immediately and want to avoid multiple queries.
+
+Lazy Loading: In contrast, lazy loading loads related data only when it is accessed. This can help to optimize performance by delaying the data 
+retrieval until it's needed.
+
+================================================================================================================================================
+
+Pros and Cons:
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Eager Loading:
+
+Pros:
+
+Reduces the number of database queries since related data is fetched in a single call.
+Efficient when dealing with known, required data relationships.
+Prevents issues like the N+1 query problem (multiple queries executed unnecessarily).
+
+Cons:
+
+Can load more data than needed, leading to unnecessary memory usage if not all related data is required.
+Requires careful management of .Include() calls to ensure all necessary relationships are included.
+
+==================================================================================================================================================
+Lazy Loading:
+
+Pros:
+Loads only the data when it's actually needed, improving initial performance.
+Simplifies code by not requiring explicit queries for related data unless it’s accessed.
+
+Cons:
+May result in N+1 queries, meaning multiple database queries for related data, which can hurt performance if many related entities are accessed.
+Can cause unintended additional queries, leading to performance issues, especially in large datasets

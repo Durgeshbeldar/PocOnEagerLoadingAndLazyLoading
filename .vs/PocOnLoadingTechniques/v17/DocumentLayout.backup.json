@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|s:\\office work\\monocept training\\assignments\\poconloadingtechniques\\poconloadingtechniques\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|solutionrelative:poconloadingtechniques\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|s:\\office work\\monocept training\\assignments\\poconloadingtechniques\\poconloadingtechniques\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|solutionrelative:poconloadingtechniques\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|s:\\office work\\monocept training\\assignments\\poconloadingtechniques\\poconloadingtechniques\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|solutionrelative:poconloadingtechniques\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|s:\\office work\\monocept training\\assignments\\poconloadingtechniques\\poconloadingtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CFBFB9-C899-4B91-9083-219733763C62}|PocOnLoadingTechniques\\PocOnLoadingTechniques.csproj|solutionrelative:poconloadingtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Program.cs",
+              "RelativeDocumentMoniker": "PocOnLoadingTechniques\\Program.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Program.cs",
+              "RelativeToolTip": "PocOnLoadingTechniques\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:46:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "PocOnLoadingTechniques\\Repositories\\IRepository.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "PocOnLoadingTechniques\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:44:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "PocOnLoadingTechniques\\Repositories\\Repository.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Repositories\\Repository.cs",
+              "RelativeToolTip": "PocOnLoadingTechniques\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:43:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "PocOnLoadingTechniques\\Controllers\\AuthorController.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnLoadingTechniques\\PocOnLoadingTechniques\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "PocOnLoadingTechniques\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:24:07.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
